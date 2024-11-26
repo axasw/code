@@ -1,6 +1,6 @@
 # Code
 
-This is the open source code of the paper "xxxxx"
+This is the open source code of the paper "Machine Learning Predicts Conductivity in 2D Metal Chalcogenides for Designing Optimal Electromagnetic Wave Absorbing Materials".
 
 ## run
 
